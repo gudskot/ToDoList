@@ -32,6 +32,7 @@ int main()
         }
     }
     printf("Goodbye!");
+    fclose(fw);
 
     return 0;
 }
